@@ -1,4 +1,5 @@
-![Banner Image](https://raw.githubusercontent.com/digitaldeja0/cat-demo/main/public/phaser-demo.png)
+![Banner Image](https://raw.githubusercontent.com/digitaldeja0/Phaser-Apple-Catcher/main/public/phaser-demo.png)
+
 
 # Phaser Apple Catcher Demo
 
