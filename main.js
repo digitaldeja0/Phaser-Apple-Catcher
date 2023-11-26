@@ -161,4 +161,3 @@ gameStartBtn.addEventListener("click", ()=>{
   gameStartDiv.style.display="none"
   game.scene.resume("scene-game")
 })
-
